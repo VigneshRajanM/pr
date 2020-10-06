@@ -1,6 +1,6 @@
-PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+PRODUCT_BUNDLE_IDENTIFIER = com.pall.poapproval
 
 BUNDLE_DISPLAY_NAME = poapproval
-BUNDLE_IDENTIFIER = com.mendix.native.template
+BUNDLE_IDENTIFIER = com.pall.poapproval
 
 RUNTIME_URL = http:\/\/localhost:8080
